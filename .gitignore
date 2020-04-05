@@ -1,0 +1,10 @@
+##Ignore unecessary files
+
+/Debug
+/Release
+/.vs
+
+*.sln
+*.vcxproj
+*.filters
+*.user
