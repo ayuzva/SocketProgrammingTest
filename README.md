@@ -1,4 +1,4 @@
-#SocketProgrammingTest
+SocketProgrammingTest
 
 An attempt to self teach socket programming with 2 computers and an ethernet cable.
 
